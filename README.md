@@ -76,7 +76,7 @@ Advanced AI Solutions Specialist | Cybersecurity Expert
 ## ✍️ محمد أمين صالح البارده
 أخصائي حلول الذكاء الاصطناعي المتقدمة | متخصص في أمن سيبراني  
 
-[GitHub](https://github.com/775503801) | [LinkedIn](https://www.linkedin.com/in/Mohammed-Albareda) | [Instagram](https://www.instagram.com/mhmd.lbrdh?igsh=a2J4aXVidHpsb3Yw) | [Facebook](https://www.facebook.com/share/18Gh1EKFnP/)  
+[GitHub](https://github.com/mohammed-albareda) | [LinkedIn](https://www.linkedin.com/in/Mohammed-Albareda) | [Instagram](https://www.instagram.com/mhmd.lbrdh?igsh=a2J4aXVidHpsb3Yw) | [Facebook](https://www.facebook.com/share/18Gh1EKFnP/)  
 
 📧 mohmmedas2004@gmail.com | 📱 +967775503801
 
