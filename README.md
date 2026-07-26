@@ -1,4 +1,4 @@
-# WormGPT Ultimate 🚀
+# Defensive-Ransomware-Analysis-Lab 🚀
 
 A powerful, modern desktop AI assistant built with Python and Tkinter. This project started as a simple Telegram bot and evolved into a full-featured desktop application with persistent chat history and context-aware memory.
 
